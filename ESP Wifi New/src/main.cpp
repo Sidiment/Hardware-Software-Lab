@@ -193,11 +193,11 @@
 #include <FirebaseClient.h>
 #include <WiFiClientSecure.h>
 
-#define WIFI_SSID "UW MPSK"
-#define WIFI_PASSWORD "C5x=G>pLMy"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
-#define DATABASE_SECRET "AIzaSyCshEgOsdVluhZ60lzpFH0G2B9QBZduGbo"
-#define DATABASE_URL "https://esp32-wifi-hwsf-lab-default-rtdb.firebaseio.com/"
+#define DATABASE_SECRET ""
+#define DATABASE_URL ""
 
 #define SENSOR_INTERVAL 4000    // Measure sensor data every 4 seconds (0.25Hz)
 #define DEEP_SLEEP_INTERVAL 10000 // Deep sleep for 30s if no significant change
