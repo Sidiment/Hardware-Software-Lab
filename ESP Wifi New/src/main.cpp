@@ -9,11 +9,11 @@
 // #include <WiFiClientSecure.h>
 
 
-// #define WIFI_SSID "UW MPSK"
-// #define WIFI_PASSWORD "C5x=G>pLMy"
+// #define WIFI_SSID ""
+// #define WIFI_PASSWORD ""
 
-// #define DATABASE_SECRET "AIzaSyCshEgOsdVluhZ60lzpFH0G2B9QBZduGbo"
-// #define DATABASE_URL "https://esp32-wifi-hwsf-lab-default-rtdb.firebaseio.com/"
+// #define DATABASE_SECRET ""
+// #define DATABASE_URL ""
 
 // #define STAGE_INTERVAL 12000 // 12 seconds each stage
 // #define MAX_WIFI_RETRIES 100 // Maximum number of WiFi connection retries
