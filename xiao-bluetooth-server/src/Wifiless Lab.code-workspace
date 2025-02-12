@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../Documents/PlatformIO/Projects/Wifiless Lab"
+		},
+		{
+			"name": "xiao-bluetooth-server",
+			"path": ".."
+		},
+		{
+			"name": "ESP Wifi New",
+			"path": "../../../../Hardware-Software-Lab/ESP Wifi New"
+		}
+	],
+	"settings": {}
+}
